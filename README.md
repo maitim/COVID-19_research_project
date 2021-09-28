@@ -1,1 +1,1 @@
-# COVID-19_research_project
+# COVID-19 Research Project
